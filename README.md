@@ -1,4 +1,10 @@
-<img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; margin-left: 200px; height: auto; max-height: 300px; display: inline-block;" data-target="animated-image.originalImage">
+<div style = "display: flex; justify-content: center;">
+
+<img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 1200px; height: auto; max-height: 500px; display: inline-block;" data-target="animated-image.originalImage">
+</div>
+
+
+
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonpolat Ravshanov
 
@@ -67,5 +73,3 @@ src="https://img.shields.io/github/followers/jony37?logo=github&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jony37"><img src="https://github-readme-stats.vercel.app/api?username=jony37&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="jony37's GitHub stats" /></a>
-
-<a href="http://www.github.com/jony37"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jony37&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
